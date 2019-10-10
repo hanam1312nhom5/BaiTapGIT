@@ -7,11 +7,18 @@ int USCLN(int a, int b)
 			b=b-a;
 	return a;
 }
+
+void ten ()
+{
+	cout<<"\nHello Thang";
+
 void huy()
 {
 	cout<<"chao huy dep trai ";
+
 }
 void Nam()
 {
 	cout<<"Hello eeverybodyhandsome";
+
 }
