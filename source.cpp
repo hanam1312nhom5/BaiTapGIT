@@ -11,3 +11,7 @@ void huy()
 {
 	cout<<"chao huy dep trai ";
 }
+void Nam()
+{
+	cout<<"Hello eeverybodyhandsome";
+}
