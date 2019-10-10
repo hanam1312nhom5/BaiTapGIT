@@ -7,3 +7,7 @@ int USCLN(int a, int b)
 			b=b-a;
 	return a;
 }
+void huy()
+{
+	cout<<"chao huy dep trai ";
+}
